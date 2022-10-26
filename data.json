@@ -1,0 +1,38 @@
+{
+  "data": {
+    "Ropa": {
+      "Pantalon": {
+        "Pantalon1": [20, 302, 200, 581],
+        "Pantalon2": [321, 651, 123, 281],
+        "Pantalon3": [120, 202, 500, 381]
+      },
+      "Camisa": {
+        "Camisa1": [234, 426, 845, 243],
+        "Camisa2": [24, 651, 153, 223],
+        "Camisa3": [42, 202, 27, 423]
+      },
+      "Calcetines": {
+        "Calcetines1": [123, 331, 12, 581],
+        "Calcetines2": [321, 651, 321, 281],
+        "Calcetines3": [321, 202, 500, 21]
+      }
+    },
+    "Calzados": {
+      "Chanclas": {
+        "Chanclas1": [20, 123, 200, 31],
+        "Chanclas2": [321, 651, 123, 281],
+        "Chanclas3": [120, 202, 23, 381]
+      },
+      "Zapatos": {
+        "Zapatos1": [20, 302, 200, 581],
+        "Zapatos2": [321, 651, 123, 281],
+        "Zapatos3": [120, 202, 500, 381]
+      },
+      "Plataformas": {
+        "Plataformas1": [123, 42, 200, 945],
+        "Plataformas2": [321, 12, 43, 281],
+        "Plataformas3": [342, 202, 843, 381]
+      }
+    }
+  }
+}

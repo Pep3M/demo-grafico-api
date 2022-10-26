@@ -1,0 +1,15 @@
+{
+  "name": "demo-grafico-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server -p 4000 data.json"
+  },
+  "keywords": [],
+  "author": "Pep3 Marquez",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
